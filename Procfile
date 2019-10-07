@@ -1,1 +1,1 @@
-web: gunicord djangoresume.wsgi
+web: gunicorn djangoresume.wsgi
